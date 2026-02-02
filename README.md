@@ -2,13 +2,11 @@
 <h3 align="center">Java Full-Stack Developer | Spring Boot • React</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/mehtatanay04">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE">
+
+  <a href="https://leetcode.com/mehtatanay04">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black"/>
   </a>
 </p>
