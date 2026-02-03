@@ -34,12 +34,12 @@
 `React.js` `HTML` `CSS` `Tailwind`
 
 **Database & Tools**  
-`MySQL` `Firebase` `Git` `Postman` `VS Code`
+`MySQL` `Firebase` `Git` `GitHub`  `Postman` `VS Code`
 
 ---
 
 ### 🧠 Highlights
-- ✅ Solved **200+ DSA problems** on LeetCode, HackerRank & CodeChef
+- ✅ Solved **200+ DSA problems** on LeetCode, HackerRank & GeeksForGeeks
 - 📊 CGPA: **8.1 / 10**
 - 🚀 Passionate about building scalable backend systems
 
